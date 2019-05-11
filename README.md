@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![MiCard Project Screenshot](https://github.com/Will-1-Am/Images/micard_proj.jpg)
 
 # Mi Card
 
